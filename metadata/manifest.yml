@@ -6,7 +6,7 @@ Description: "GeoServer is an open source software server written in Java that a
 Version: '2.7.2'
 Versions: [2.7.2]
 Cartridge-Version: 0.1.0
-Cartridge-Vendor: worldline
+Cartridge-Vendor: krtarjianto
 License: MIT License
 Vendor: Mit
 Categories:
